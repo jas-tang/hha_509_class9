@@ -1,3 +1,6 @@
+import sys
+sys.path.append('/home/jason_tang/hha_509_class9/modules')
+
 import module1 as mod1
 
 output1 = mod1.addition(5,10)
